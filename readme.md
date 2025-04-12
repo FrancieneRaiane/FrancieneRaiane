@@ -1,5 +1,25 @@
 # 💫 About Me:
-<br>Olá, meu nome é Franciene 👋<br>Sou estudante de Desenvolvimento Web e atualmente estou fazendo um curso onde aprendo JavaScript, CSS e HTML. Meu objetivo é me tornar um desenvolvedor web completo e contribuir para a criação de soluções criativas e inovadoras na web.<br><br>🚀 Tecnologias que estou aprendendo<br>JavaScript: Estou aprendendo a programar interatividade e lógica de programação usando JavaScript.<br><br>HTML: Estou dominando a estruturação de páginas web com HTML.<br><br>CSS: Estou trabalhando para criar layouts bonitos e responsivos usando CSS.<br><br>🌱O que estou aprendendo atualmente<br>, estou me aprofundando mais em JavaScript e tentando melhorar minhas habilidades em desenvolvimento front-end. Também estou estudando como trabalhar com CSS para construir páginas responsivas e específicas para os usuários
+👋 Olá, eu sou a Franciene!
+Sou Técnica em Informática, com graduação e pós-graduação em Tecnologia da Informação. Atuei por vários anos com montagem, manutenção e suporte técnico em computadores — experiência que me proporcionou uma base sólida em hardware, redes e atendimento ao usuário. Atualmente, presto serviços como freelancer nessa área.
+
+Nos últimos meses, venho direcionando minha carreira para o Desenvolvimento Web, área na qual venho estudando de forma dedicada. Estou em formação como desenvolvedora web e focada em construir uma base sólida com:
+
+🚀 Tecnologias que estou aprendendo:
+HTML5 – para estruturar páginas de forma semântica;
+
+CSS3 – para criar layouts modernos e responsivos;
+
+JavaScript – para adicionar interatividade, lógica e dinamismo às aplicações;
+
+Git & GitHub – para controle de versão e colaboração em projetos;
+
+Visual Studio Code – como principal ambiente de desenvolvimento.
+
+🌱 O que estou estudando atualmente:
+Atualmente, estou me aprofundando em JavaScript e em técnicas de front-end responsivo com CSS, focando em boas práticas, organização de código e usabilidade. Estou também explorando a lógica de programação, preparando meus primeiros projetos para disponibilizar aqui no GitHub.
+
+💡 Próximos passos:
+Continuar evoluindo como desenvolvedora web, explorando novas tecnologias e frameworks modernos, como React e ferramentas de back-end futuramente.
 
 
 ## 🌐 Socials:
