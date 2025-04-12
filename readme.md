@@ -1,6 +1,6 @@
 # 💫 About Me:
 👋 Olá, eu sou a Franciene!
-Sou Técnica em Informática, com graduação e pós-graduação em Tecnologia da Informação. Atuei por vários anos com montagem, manutenção e suporte técnico em computadores — experiência que me proporcionou uma base sólida em hardware, redes e atendimento ao usuário. Atualmente, presto serviços como freelancer nessa área.
+Sou Técnica em Informática. Atuei por vários anos com montagem, manutenção e suporte técnico em computadores — experiência que me proporcionou uma base sólida em hardware, redes e atendimento ao usuário. Atualmente, presto serviços como freelancer nessa área.
 
 Nos últimos meses, venho direcionando minha carreira para o Desenvolvimento Web, área na qual venho estudando de forma dedicada. Estou em formação como desenvolvedora web e focada em construir uma base sólida com:
 
