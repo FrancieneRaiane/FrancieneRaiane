@@ -13,10 +13,10 @@ JavaScript – para adicionar interatividade, lógica e dinamismo às aplicaçõ
 
 Git & GitHub – para controle de versão e colaboração em projetos;
 
-Visual Studio Code – como principal ambiente de desenvolvimento.
+Visual Studio Code  e Eclipse IDE – como principais ambientes de desenvolvimento.
 
 🌱 O que estou estudando atualmente:
-Atualmente, estou me aprofundando em JavaScript e em técnicas de front-end responsivo com CSS, focando em boas práticas, organização de código e usabilidade. Estou também explorando a lógica de programação, preparando meus primeiros projetos para disponibilizar aqui no GitHub.
+Atualmente, estou me aprofundando em JavaScript e em técnicas de front-end responsivo com CSS, focando em boas práticas, organização de código e usabilidade. Estou também explorando a lógica de programação, preparando meus primeiros projetos para disponibilizar aqui no GitHub. Também estou estudando JAVA.
 
 💡 Próximos passos:
 Continuar evoluindo como desenvolvedora web, explorando novas tecnologias e frameworks modernos, como React e ferramentas de back-end futuramente.
